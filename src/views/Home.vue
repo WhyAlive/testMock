@@ -1,6 +1,6 @@
 <template>
   <div class="home">
-    <h1>测试Mock数据</h1>
+    <h1>测试Mock数据1</h1>
     <button @click="handleLogin">获取登录数据</button>
   </div>
 </template>
